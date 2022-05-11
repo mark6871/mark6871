@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mark6871
 - 👀 I’m interested in superconductivity in hydrogen-rich materials under pressure
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on experimental and theoretical studies of superhydrides.
 - 📫 How to reach me dmitrii.semenok@skoltech.ru
 
 <!---
